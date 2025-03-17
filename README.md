@@ -1,1 +1,2 @@
-# NNPTUD_C2
+# Nguyễn Lâm Trắng Kiệt
+# 2180605350
